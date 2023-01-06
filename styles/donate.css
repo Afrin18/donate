@@ -102,16 +102,15 @@
     display: flex;
     justify-content: space-around;
     margin-top: 25px;
-    gap: 5px;
     text-align: left;  
-    padding: 0px 200px;
+    padding: 0px 250px;
 }
 .plans{
     background: #faf8f8;
     padding: 40px 20px 10px;
     border-radius: 5px;
-    height: 180px;
-    width: 250px;
+    height: 200px;
+    width: 220px;
 }
 .plan-image{
     height: 40px;
@@ -130,4 +129,87 @@
 /* Others Section Styles */
 .other-sec-one{
     margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 270px;
+    gap: 0px;
+}
+.one-left{
+    /* background: #faf8f8; */
+    padding: 20px 0px;
+    height: 310px;
+    width: 400px;
+}
+.right-image{
+    height: 310px;
+    width: 340px;
+}
+.left-title{
+   font-weight: 700;
+   font-size: 35px;
+}
+.left-des-1{
+    color: #757575;
+    margin-top: 15px;
+}
+.left-des-2{
+    color: #757575;
+    margin-top: 15px;
+}
+.other-sec-two{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 270px;
+    gap: 100px;
+}
+.right-title{
+   font-weight: 700;
+   font-size: 35px;
+}
+.right-des-1{
+    color: #757575;
+    margin-top: 15px;
+}
+.right-des-2{
+    color: #757575;
+    margin-top: 15px;
+}
+.two{
+    padding: 20px 0px;
+    height: 310px;
+    width: 400px;
+}
+/* Update section Styles */
+.update-section{
+    margin-top: 90px;
+    text-align: center;
+    padding: 0px 400px;
+}
+.update-title{
+   font-weight: 700;
+   font-size: 35px;
+}
+.update-des{
+    color: #757575;
+    margin-top: 15px;
+}
+.contact{
+    background: #ffeada;
+    margin-top: 50px;
+    padding: 50px 0px;
+}
+.btn-btn-primary{
+    color: white;
+    background: rgb(255, 75, 44);
+    border: 0;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+.email{
+    color: rgb(56, 69, 82);
+    border: 0;
+    padding: 10px 100px 10px 10px;
+    border-radius: 5px;
+    background: rgb(204, 206, 207);
 }
