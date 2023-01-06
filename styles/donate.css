@@ -83,3 +83,51 @@
     font-weight: 700;
     color: rgb(255, 75, 44);
 }
+/* Our Donate Plan Section */
+.donate-plan{
+    margin-top: 100px;
+    text-align: center;
+       
+}
+.donate-plan-title{
+    font-size: 35px;
+    padding: 0px 400px;
+}
+.donate-plan-des{
+    color: #757575;
+    margin-top: 15px;
+    padding: 0px 400px;
+}
+.plan-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+    gap: 5px;
+    text-align: left;  
+    padding: 0px 200px;
+}
+.plans{
+    background: #faf8f8;
+    padding: 40px 20px 10px;
+    border-radius: 5px;
+    height: 180px;
+    width: 250px;
+}
+.plan-image{
+    height: 40px;
+    width: 40px;
+}
+.plan-title{
+   font-weight: 700;
+   font-size: 18px;
+   margin-top: 20px;
+}
+.plan-des{
+   margin-top: 20px;
+   font-size: 13px;
+   color: #757575;
+}
+/* Others Section Styles */
+.other-sec-one{
+    margin-top: 100px;
+}
