@@ -12,7 +12,7 @@
 }
 .header-section{
     text-align: center;
-    padding: 160px 400px;
+   padding: 160px 400px;
 }
 .header-title{
     color: white;
@@ -37,4 +37,49 @@
 .donate-today{
     margin-top: 100px;
     text-align: center;
+    padding: 0px 400px;
+}
+.donate-title{
+    font-size: 35px;
+}
+.donate-des{
+    color: #757575;
+    margin-top: 15px;
+}
+.donate-footer{
+    margin-top: 40px;
+    color: #C0C0C0;
+}
+.box-item{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    gap: 20px;
+}
+.sub-item{
+    background: #faf8f8;
+    padding: 30px 10px;
+    border-radius: 5px;
+    height: 35px;
+    width: 80px;
+}
+.sub-item-special{
+    background: rgb(255, 224, 229);
+    padding: 30px 10px;
+    border-radius: 5px;
+    height: 35px;
+    width: 80px;
+    border-width: 2px;
+    border-color: rgb(255, 75, 44); 
+    border-style: solid;
+}
+.item-title{
+    font-size: 25px;
+    font-weight: 700;
+    color: #757575;
+}
+.item-title-special{
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(255, 75, 44);
 }
