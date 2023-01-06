@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    font-family: Arial, sans-serif;
+}
+/* Header section */
+.header{
+    background-color: skyblue;
+    background-image: url(../images/pict_large.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+.header-section{
+    text-align: center;
+    padding: 160px 400px;
+}
+.header-title{
+    color: white;
+    font-size: 40px;
+}
+.header-des{
+    color: #C0C0C0;
+    margin-top: 20px;
+}
+.btn-primary{
+    color: aliceblue;
+    font-weight: 500;
+    font-size: 17px;
+    border: 0;
+    height: 40px;
+    border-radius: 5px;
+    background: red;
+    padding: 0px 10px;
+    margin-top: 20px;
+}
+/* Donate Today Section */
+.donate-today{
+    margin-top: 100px;
+    text-align: center;
+}
